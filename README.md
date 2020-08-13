@@ -1,1 +1,3 @@
-# math_constants1
+# math_constants
+
+Mathematical constants.
